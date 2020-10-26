@@ -1,0 +1,19 @@
+Health | Iteration: 1 | Made by Mis1eader [Developer]
+
+You must agree on these [4] points in order to use this asset:
+[1] You are not allowed to sell/publish/giveaway this asset itself to others, as it is free.
+[2] You are not required to credit me in your game/movie, but if you do so, I appreciate it.
+[3] You are allowed to use this asset freely/commercially in complete/built projects only (games, movies, etc..). (Your product version does not matter, Alpha, Beta, etc..)
+[4] You are allowed to link/include this asset with your/other assets to publish, but you will be required to credit me and my asset by including this (Read Me) text file in your asset.
+
+- How can I add the scripts?
+  Option 1: In Main menu (Top menu), click Component > Mis1eader > Health.
+  Option 2: In Inspector window, click Add Component > Mis1eader > Health.
+  Option 3: In Project window, go to Assets/Mis1eader/Health, Drag & Drop the script onto the gameobject.
+
+- How can I give feedbacks, improvements, updates and ideas for this asset?
+  Facebook: https://facebook.com/Mis1eader-108099904136834
+  YouTube: https://youtube.com/channel/UCfduxC1x80UGUepiZp555_A
+
+- This asset was downloaded from:
+  Website: https://sites.google.com/site/mis1eaderofficial/developer/downloads

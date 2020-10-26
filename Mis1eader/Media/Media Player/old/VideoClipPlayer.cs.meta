@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1c15ea41dd1184346abd40f155898aa8
+timeCreated: 1515748746
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skipBackwardTexture: {fileID: 2800000, guid: e71c2699b20a8434282ecee78adbece5,
+      type: 3}
+  - fastBackwardTexture: {fileID: 2800000, guid: 5001a45101ad9aa45ac5c4df0844cbb6,
+      type: 3}
+  - playTexture: {fileID: 2800000, guid: d01235ac82203cf43a1f4d86308b6708, type: 3}
+  - pauseTexture: {fileID: 2800000, guid: 365586deefec0314e86674a1987b0005, type: 3}
+  - fastForwardTexture: {fileID: 2800000, guid: f8145dc1077a8cc439f2640ed32efcaf,
+      type: 3}
+  - skipForwardTexture: {fileID: 2800000, guid: 4cd77e506e79d5045917452c1ce4c0e8,
+      type: 3}
+  - repeatTexture: {fileID: 2800000, guid: 52e9e9cad3a129040a69a2a7b2d377d9, type: 3}
+  - preventRepeatingTexture: {fileID: 2800000, guid: e26bd2a1de4a8e545a886dbc5ad49dd6,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: c4d156e059774994f8673be7b9af9ee1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
