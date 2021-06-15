@@ -1,4 +1,4 @@
-Media Player | Iteration: 1 | Made by Mis1eader [Developer]
+Media Player | Iteration: 3 | Made by Mis1eader [Developer]
 
 You must agree on these [4] points in order to use this asset:
 [1] You are not allowed to sell/publish/giveaway this asset itself to others, as it is free.
@@ -31,8 +31,8 @@ You must agree on these [4] points in order to use this asset:
 	}
 
 - How can I give feedbacks, improvements, updates and ideas for this asset?
-  Facebook: https://facebook.com/Mis1eader-108099904136834
-  YouTube: https://youtube.com/channel/UCfduxC1x80UGUepiZp555_A
+  Facebook: https://www.facebook.com/Mis1eader-108099904136834
+  YouTube: https://www.youtube.com/channel/UCfduxC1x80UGUepiZp555_A
 
 - This asset was downloaded from:
-  Website: https://sites.google.com/site/mis1eaderofficial/developer/downloads
+  Website: https://sites.google.com/view/mis1eader/developer/downloads
