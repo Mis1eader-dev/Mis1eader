@@ -1175,7 +1175,7 @@
 					GUILayout.Label("SPEED",EditorStyles.boldLabel);
 					GUILayout.FlexibleSpace();
 					GUI.backgroundColor = timeSystems[0].useTimeScaleUsage ? Color.green : Color.red;
-					if(GUILayout.Button("Use Time Scale Usage"))
+					if(GUILayout.Button("Use Time Scale"))
 					{
 						Undo.RecordObjects(targets,"Inspector");
 						timeSystems[0].useTimeScaleUsage = !timeSystems[0].useTimeScaleUsage;
