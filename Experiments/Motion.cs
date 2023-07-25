@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using UnityEngine;
+// This can be used to predict linear output interpolation on intervals based on fps and speed
 public class Motion : MonoBehaviour
 {
 	public double speedPerSec = 0.5;
